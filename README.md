@@ -1,8 +1,8 @@
 # GenAI-SQL-Queries
 
 ## Project Overview
-![houseprediction](https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/12/housing_predictions-e1733474034542.jpg)
-This mini-project is designed to convert simple English questions into SQL queries and retrieve the results from a database (using the Chinook music store database as an example: https://github.com/lerocha/chinook-database).
+![Chinook-data-model](assets/GenAI-SQL.png)
+This mini-project is designed to convert simple English questions into SQL queries and retrieve the results from a database (by using the Chinook music store database: https://github.com/lerocha/chinook-database).
 
 ## 🎯 Key Objectives
 
