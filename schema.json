@@ -1,0 +1,261 @@
+{
+  "database": "nhl_stat.db",
+  "tables": {
+    "nhl_2004_2018_player_data": {
+      "columns": [
+        {
+          "name": "Rk",
+          "type": "INTEGER"
+        },
+        {
+          "name": "Player",
+          "type": "TEXT"
+        },
+        {
+          "name": "Age",
+          "type": "INTEGER"
+        },
+        {
+          "name": "Pos",
+          "type": "TEXT"
+        },
+        {
+          "name": "Tm",
+          "type": "TEXT"
+        },
+        {
+          "name": "GP",
+          "type": "INTEGER"
+        },
+        {
+          "name": "G",
+          "type": "INTEGER"
+        },
+        {
+          "name": "A",
+          "type": "INTEGER"
+        },
+        {
+          "name": "PTS",
+          "type": "INTEGER"
+        },
+        {
+          "name": "plusminus",
+          "type": "INTEGER"
+        },
+        {
+          "name": "PIM",
+          "type": "INTEGER"
+        },
+        {
+          "name": "PS",
+          "type": "REAL"
+        },
+        {
+          "name": "EV",
+          "type": "INTEGER"
+        },
+        {
+          "name": "PP",
+          "type": "INTEGER"
+        },
+        {
+          "name": "SH",
+          "type": "INTEGER"
+        },
+        {
+          "name": "GW",
+          "type": "INTEGER"
+        },
+        {
+          "name": "EV.1",
+          "type": "INTEGER"
+        },
+        {
+          "name": "PP.1",
+          "type": "INTEGER"
+        },
+        {
+          "name": "SH.1",
+          "type": "INTEGER"
+        },
+        {
+          "name": "S",
+          "type": "INTEGER"
+        },
+        {
+          "name": "S_percent",
+          "type": "REAL"
+        },
+        {
+          "name": "TOI",
+          "type": "INTEGER"
+        },
+        {
+          "name": "ATOI",
+          "type": "REAL"
+        },
+        {
+          "name": "BLK",
+          "type": "REAL"
+        },
+        {
+          "name": "HIT",
+          "type": "INTEGER"
+        },
+        {
+          "name": "FOW",
+          "type": "REAL"
+        },
+        {
+          "name": "FOL",
+          "type": "REAL"
+        },
+        {
+          "name": "FO_percent",
+          "type": "REAL"
+        },
+        {
+          "name": "HART",
+          "type": "INTEGER"
+        },
+        {
+          "name": "Votes",
+          "type": "INTEGER"
+        },
+        {
+          "name": "Season",
+          "type": "INTEGER"
+        }
+      ]
+    },
+    "nhl": {
+      "columns": [
+        {
+          "name": "Rk",
+          "type": "INTEGER"
+        },
+        {
+          "name": "Player",
+          "type": "TEXT"
+        },
+        {
+          "name": "Age",
+          "type": "INTEGER"
+        },
+        {
+          "name": "Pos",
+          "type": "TEXT"
+        },
+        {
+          "name": "Tm",
+          "type": "TEXT"
+        },
+        {
+          "name": "GP",
+          "type": "INTEGER"
+        },
+        {
+          "name": "G",
+          "type": "INTEGER"
+        },
+        {
+          "name": "A",
+          "type": "INTEGER"
+        },
+        {
+          "name": "PTS",
+          "type": "INTEGER"
+        },
+        {
+          "name": "plusminus",
+          "type": "INTEGER"
+        },
+        {
+          "name": "PIM",
+          "type": "INTEGER"
+        },
+        {
+          "name": "PS",
+          "type": "REAL"
+        },
+        {
+          "name": "EV",
+          "type": "INTEGER"
+        },
+        {
+          "name": "PP",
+          "type": "INTEGER"
+        },
+        {
+          "name": "SH",
+          "type": "INTEGER"
+        },
+        {
+          "name": "GW",
+          "type": "INTEGER"
+        },
+        {
+          "name": "EV.1",
+          "type": "INTEGER"
+        },
+        {
+          "name": "PP.1",
+          "type": "INTEGER"
+        },
+        {
+          "name": "SH.1",
+          "type": "INTEGER"
+        },
+        {
+          "name": "S",
+          "type": "INTEGER"
+        },
+        {
+          "name": "S_percent",
+          "type": "REAL"
+        },
+        {
+          "name": "TOI",
+          "type": "INTEGER"
+        },
+        {
+          "name": "ATOI",
+          "type": "REAL"
+        },
+        {
+          "name": "BLK",
+          "type": "INTEGER"
+        },
+        {
+          "name": "HIT",
+          "type": "INTEGER"
+        },
+        {
+          "name": "FOW",
+          "type": "INTEGER"
+        },
+        {
+          "name": "FOL",
+          "type": "INTEGER"
+        },
+        {
+          "name": "FO_percent",
+          "type": "REAL"
+        },
+        {
+          "name": "HART",
+          "type": "INTEGER"
+        },
+        {
+          "name": "Votes",
+          "type": "INTEGER"
+        },
+        {
+          "name": "Season",
+          "type": "INTEGER"
+        }
+      ]
+    }
+  }
+}
